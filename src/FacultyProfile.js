@@ -26,6 +26,7 @@ const FacultyProfile = () => {
           { id: 2, title: "Projects", content: [] },
         ];
   });
+
   const [newStudentSectionTitle, setNewStudentSectionTitle] = useState("");
   const [postType, setPostType] = useState("Post");
   const [postContent, setPostContent] = useState("");
