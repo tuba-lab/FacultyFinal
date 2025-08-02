@@ -1,4 +1,4 @@
-import FacultyPublicView from "./FacultyPublicView";
+import FacultyProfile from "./FacultyProfile";
 export default function App() {
-  return <FacultyPublicView />;
+  return <FacultyProfile />;
 }
